@@ -1,0 +1,12 @@
+swcdn.apple.com
+appldnld.apple.com
+az-dn.gw.samsungapps.com
+ak-eg-cdn.kwai.net
+ali-eg-cdn.kwai.net
+aws-cdn.kwai.net
+g-eg-cdn.kwai.net
+ak-eg-pic.kwai.net
+cdn-f2p.bigfishgames.com
+download.blockmanmobile.com
+ardownload.adobe.com
+mafiacdn.yottagames.com

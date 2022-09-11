@@ -1,0 +1,4 @@
+v16-tiktokcdn-com.akamaized.net
+v16m.tiktokcdn.com.akamaized.net
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
