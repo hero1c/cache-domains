@@ -124,17 +124,22 @@
 		},
 		{
 			"name": "tiktok",
-			"description": "CDN for xboxlive",
+			"description": "CDN for titkok",
 			"domain_files": ["tiktok.txt"]
 		},
 		{
 			"name": "pubg",
-			"description": "CDN for xboxlive",
+			"description": "CDN for pubg",
 			"domain_files": ["pubg.txt"]
 		},
 		{
+			"name": "mobilelegends",
+			"description": "CDN for mobilelegends",
+			"domain_files": ["extra.txt"]
+		},
+		{
 			"name": "extra",
-			"description": "CDN for xboxlive",
+			"description": "extra urls",
 			"domain_files": ["extra.txt"]
 		},
 	]
