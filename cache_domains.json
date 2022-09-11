@@ -121,6 +121,21 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
+		{
+			"name": "tiktok",
+			"description": "CDN for xboxlive",
+			"domain_files": ["tiktok.txt"]
+		},
+		{
+			"name": "pubg",
+			"description": "CDN for xboxlive",
+			"domain_files": ["pubg.txt"]
+		},
+		{
+			"name": "extra",
+			"description": "CDN for xboxlive",
+			"domain_files": ["extra.txt"]
+		},
 	]
 }
